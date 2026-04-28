@@ -1,0 +1,13 @@
+{
+  "hooks": {
+    "afterAgentResponse": [],
+    "afterMCPExecution": [],
+    "beforeMCPExecution": [],
+    "beforeSubmitPrompt": [
+      {
+        "command": "python3 ~/.cursor/hooks/email_guard.py"
+      }
+    ]
+  },
+  "version": 1
+}
