@@ -1,0 +1,11 @@
+{
+  "name": "email-guard-hook",
+  "displayName": "Email Guard Hook",
+  "description": "Shows a native Cursor confirmation toast when the email-guard hook fires",
+  "version": "0.0.1",
+  "publisher": "local",
+  "engines": { "vscode": "^1.70.0" },
+  "activationEvents": ["onStartupFinished"],
+  "main": "./extension.js",
+  "contributes": {}
+}
