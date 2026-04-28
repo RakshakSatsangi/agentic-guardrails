@@ -1,0 +1,9 @@
+[
+  {
+    "identifier": { "id": "local.email-guard-hook" },
+    "version": "0.0.1",
+    "location": { "$mid": 1, "fsPath": "/Users/rakshaksatsangi/.cursor/extensions/email-guard-hook-0.0.1", "external": "file:///Users/rakshaksatsangi/.cursor/extensions/email-guard-hook-0.0.1", "path": "/Users/rakshaksatsangi/.cursor/extensions/email-guard-hook-0.0.1", "scheme": "file" },
+    "relativeLocation": "email-guard-hook-0.0.1",
+    "metadata": { "isApplicationScoped": false, "isMachineScoped": false, "isBuiltin": false, "installedTimestamp": 1745900000000, "pinned": false, "source": "vsix" }
+  }
+]
